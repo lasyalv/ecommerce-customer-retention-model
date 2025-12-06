@@ -64,9 +64,6 @@ Dataset includes:
 - Gender one-hot columns  
 - Churn label  
 
-Notebook reference:  
-:contentReference[oaicite:0]{index=0}
-
 ---
 
 ## Methodology
@@ -177,4 +174,5 @@ Steps:
 ## Data Source & Contributors
 
 Data Source: Kaggle
+
 Contributors: Aanya Bhatia, Damario Abdalla, Lasya Lalpet Venkata, and Nilufar Dusnazarova
