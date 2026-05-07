@@ -171,8 +171,7 @@ Steps:
 - Prepared insights and project structure  
 
 ---
-## Data Source & Contributors
+## Data Source
 
 Data Source: Kaggle
 
-Contributors: Aanya Bhatia, Damario Abdalla, Lasya Lalpet Venkata, and Nilufar Dusnazarova
